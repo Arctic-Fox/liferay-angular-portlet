@@ -10,7 +10,7 @@
     <packaging>war</packaging>
 
     <properties>
-        <liferay.version>6.2.10.15</liferay.version>
+        <liferay.version>6.2.5</liferay.version>
         <org.springframework.version>4.2.1.RELEASE</org.springframework.version>
     </properties>
 
