@@ -19,3 +19,4 @@ velocity.log
 target/
 src/main/webapp/dist
 src/main/angular/**/*.js
+/.project
